@@ -57,24 +57,15 @@ python main.py
 
 ## ⚙️ Cerințe Tehnice
 
-- **Limbaj de programare:** Python 3.x
+- **Limbaj de programare:** PyCharm
 - **Biblioteci utilizate:**
   - `pygame` - pentru interfața grafică
   - `pandas` - pentru manipularea fișierului Excel
   - `random` - pentru alegerea aleatorie a țărilor
-- **Sistem de operare:** Windows, Linux, macOS
-
-## 📌 Funcționalități viitoare
-- Adăugarea unui sistem de **leaderboard** pentru a salva scorurile maxime.
-- Integrarea unui **timer** pentru a crește dificultatea jocului.
-- Posibilitatea de a selecta **moduri de dificultate**.
 
 ## 👨‍💻 Autor
 - **Nume:** Catalin Voicu
 - **Email:** catavoicu01@gmail.com
 - Proiect realizat ca parte a cursului: Programarea calculatoarelor și limbaje de programare 3 - Proiect Python.
 - **Universitate:** Facultatea de Electronică, Telecomunicații și Tehnologia Informației, Universitatea Politehnica București
-
----
-📌 *Acest proiect este open-source! Orice contribuție este binevenită!* 🚀
 
