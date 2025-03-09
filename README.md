@@ -57,7 +57,7 @@ python main.py
 
 ## ⚙️ Cerințe Tehnice
 
-- **Limbaj de programare:** PyCharm
+- **Program folosit:** PyCharm
 - **Biblioteci utilizate:**
   - `pygame` - pentru interfața grafică
   - `pandas` - pentru manipularea fișierului Excel
