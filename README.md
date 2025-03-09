@@ -47,13 +47,13 @@ python main.py
 ## 🖼️ Capturi de Ecran
 
 1. **Ecranul principal**
-   ![Ecran principal](images/lower_higher.png)
+  ![Image](https://github.com/user-attachments/assets/89862f8e-4088-4ebe-b701-685a3cc3b32a)
 
 2. **Joc în desfășurare**
-   ![Joc](images/poza_fundal.png)
+   ![Image](https://github.com/user-attachments/assets/421e9384-03d9-4d6a-9ba1-09e93ce4c8d6)
 
 3. **Ecran Game Over**
-   ![Game Over](images/gameover.png)
+  ![Image](https://github.com/user-attachments/assets/98ecd94e-cead-4cbb-a439-81c0e27893de)
 
 ## ⚙️ Cerințe Tehnice
 
