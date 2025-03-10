@@ -64,8 +64,8 @@ python main.py
   - `random` - pentru alegerea aleatorie a țărilor
 
 ## 👨‍💻 Autor
-- **Nume:** Catalin Voicu
-- **Email:** catavoicu01@gmail.com
+- **Nume:** Catalin Voicu & Victor Enache
+- **Email:** catavoicu01@gmail.com & enachevictor887@gmail.com
 - Proiect realizat ca parte a cursului: Programarea calculatoarelor și limbaje de programare 3 - Proiect Python.
 - **Universitate:** Facultatea de Electronică, Telecomunicații și Tehnologia Informației, Universitatea Politehnica București
 
