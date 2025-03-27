@@ -1,6 +1,6 @@
-# 🕹️ The Higher Lower Game
+# The Higher Lower Game
 
-## 📜 Descrierea Proiectului
+## Descrierea Proiectului
 
 Acest proiect este un joc interactiv creat cu **Python** și **Pygame**, bazat pe conceptul "Higher Lower". Scopul jocului este de a compara populațiile a două țări și de a ghici dacă a doua țară are o populație mai mare sau mai mică decât prima.
 
@@ -11,7 +11,7 @@ Acest proiect este un joc interactiv creat cu **Python** și **Pygame**, bazat p
 - Elemente vizuale atractive, inclusiv steagurile țărilor și fundaluri tematice.
 - Butoane interactive pentru selecția utilizatorului.
 
-## 📁 Structura Proiectului
+## Structura Proiectului
 
 Proiectul include următoarele fișiere și directoare:
 
@@ -23,7 +23,7 @@ Proiectul include următoarele fișiere și directoare:
   - `gameover.png` - Imagine afișată la sfârșitul jocului.
   - `tari/` - Folder care conține steagurile țărilor.
 
-## 🔧 Instrucțiuni pentru Utilizare
+## Instrucțiuni pentru Utilizare
 
 ### 1. **Instalarea Dependențelor**
 Asigură-te că ai **Python 3.x** instalat, apoi instalează modulele necesare:
@@ -44,7 +44,7 @@ python main.py
 - Dacă ghicești corect, primești un punct și jocul continuă.
 - Dacă greșești, jocul se termină și îți poți vedea scorul.
 
-## 🖼️ Capturi de Ecran
+## Capturi de Ecran
 
 1. **Ecranul principal**
   ![Image](https://github.com/user-attachments/assets/89862f8e-4088-4ebe-b701-685a3cc3b32a)
@@ -55,7 +55,7 @@ python main.py
 3. **Ecran Game Over**
   ![Image](https://github.com/user-attachments/assets/98ecd94e-cead-4cbb-a439-81c0e27893de)
 
-## ⚙️ Cerințe Tehnice
+## Cerințe Tehnice
 
 - **Program folosit:** PyCharm
 - **Biblioteci utilizate:**
