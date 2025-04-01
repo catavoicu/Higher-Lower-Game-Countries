@@ -63,7 +63,7 @@ python main.py
   - `pandas` - pentru manipularea fișierului Excel
   - `random` - pentru alegerea aleatorie a țărilor
 
-## Autor
+## Autori
 - **Nume:** Catalin Voicu & Victor Enache
 - **Email:** catavoicu01@gmail.com & enachevictor887@gmail.com
 - Proiect realizat ca parte a cursului: Programarea calculatoarelor și limbaje de programare 3 - Proiect Python.
