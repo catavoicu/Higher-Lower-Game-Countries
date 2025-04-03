@@ -1,71 +1,75 @@
 # The Higher Lower Game
 
-## Descrierea Proiectului
+## Project Overview
 
-Acest proiect este un joc interactiv creat cu **Python** și **Pygame**, bazat pe conceptul "Higher Lower". Scopul jocului este de a compara populațiile a două țări și de a ghici dacă a doua țară are o populație mai mare sau mai mică decât prima.
+This project is an interactive game developed in **Python** using **Pygame**, based on the "Higher Lower" concept. The goal is to compare the populations of two countries and guess whether the second one has a higher or lower population than the first.
 
-### Caracteristici principale:
-- Interfață grafică prietenoasă utilizând **Pygame**.
-- Bază de date cu țări și populațiile acestora încărcată dintr-un fișier **Excel**.
-- Sistem de scor care salvează cel mai bun rezultat atins.
-- Elemente vizuale atractive, inclusiv steagurile țărilor și fundaluri tematice.
-- Butoane interactive pentru selecția utilizatorului.
+## Key Features
 
-## Structura Proiectului
+- User-friendly graphical interface built with **Pygame**
+- Country and population data loaded from an **Excel** file
+- Score tracking system that saves the highest score
+- Visually appealing elements, including country flags and themed backgrounds
+- Interactive buttons for user input
 
-Proiectul include următoarele fișiere și directoare:
+## Project Structure
 
-- `main.py` - Codul sursă principal al jocului.
-- `lista_tarilor.xlsx` - Fișierul Excel care conține numele țărilor și populațiile acestora.
-- `images/` - Conține imagini utilizate în joc:
-  - `lower_higher.png` - Fundal principal al jocului.
-  - `poza_fundal.png` - Fundal pentru interfața grafică.
-  - `gameover.png` - Imagine afișată la sfârșitul jocului.
-  - `tari/` - Folder care conține steagurile țărilor.
+The project includes the following files and folders:
 
-## Instrucțiuni pentru Utilizare
+- `main.py` – Main source code for the game  
+- `lista_tarilor.xlsx` – Excel file containing country names and populations  
+- `images/` – Folder containing images used in the game:  
+  - `lower_higher.png` – Main background image  
+  - `poza_fundal.png` – Secondary interface background  
+  - `gameover.png` – Image displayed at the end of the game  
+  - `tari/` – Folder containing country flags  
 
-### 1. **Instalarea Dependențelor**
-Asigură-te că ai **Python 3.x** instalat, apoi instalează modulele necesare:
-```sh
+## Usage Instructions
+
+### 1. Install Dependencies
+
+Make sure **Python 3.x** is installed, then install the required modules:
+
+```bash
 pip install pygame pandas openpyxl
 ```
 
-### 2. **Rularea Jocului**
-Pentru a porni jocul, rulează următoarea comandă în terminal:
+### 2. **Run the Game**
+To start the game, run the following command in your terminal:
 ```sh
 python main.py
 ```
 
-### 3. **Cum se joacă**
-- Apasă pe butonul **PLAY** pentru a începe jocul.
-- Vei vedea două țări afișate cu steagurile și populația primei țări.
-- Alege dacă a doua țară are o populație **mai mare** sau **mai mică**.
-- Dacă ghicești corect, primești un punct și jocul continuă.
-- Dacă greșești, jocul se termină și îți poți vedea scorul.
+### 3. **How to Play**
 
-## Capturi de Ecran
+- Click the PLAY button to begin.
+- You will see two countries with flags and the population of the first country.
+- Choose whether the second country has a higher or lower population.
+- If your guess is correct, you earn a point and the game continues.
+- If your guess is incorrect, the game ends and your score is displayed.
 
-1. **Ecranul principal**
+## Screenshots
+
+1. **Main Menu**
   ![Image](https://github.com/user-attachments/assets/89862f8e-4088-4ebe-b701-685a3cc3b32a)
 
-2. **Joc în desfășurare**
+2. **Game in Progress**
    ![Image](https://github.com/user-attachments/assets/421e9384-03d9-4d6a-9ba1-09e93ce4c8d6)
 
-3. **Ecran Game Over**
+3. **Game Over Screen**
   ![Image](https://github.com/user-attachments/assets/98ecd94e-cead-4cbb-a439-81c0e27893de)
 
-## Cerințe Tehnice
+## Technical Requirements
 
-- **Program folosit:** PyCharm
-- **Biblioteci utilizate:**
-  - `pygame` - pentru interfața grafică
-  - `pandas` - pentru manipularea fișierului Excel
-  - `random` - pentru alegerea aleatorie a țărilor
+- **IDE:** PyCharm (recommended)
+- **Libraries Used**
+  - `pygame` - for graphical interface
+  - `pandas` - for handling the Excel filel
+  - `random` - for selecting random countries
 
-## Autori
-- **Nume:** Catalin Voicu & Victor Enache
-- **Email:** catavoicu01@gmail.com & enachevictor887@gmail.com
-- Proiect realizat ca parte a cursului: Programarea calculatoarelor și limbaje de programare 3 - Proiect Python.
-- **Universitate:** Facultatea de Electronică, Telecomunicații și Tehnologia Informației, Universitatea Politehnica București
+## Authors
+- **Names:** Catalin Voicu & Victor Enache
+- **Emails:** catavoicu01@gmail.com & enachevictor887@gmail.com
+- Project developed as part of the course: Computer Programming and Programming Languages 3 – Python Project.
+- **University:** Faculty of Electronics, Telecommunications and Information Technology, Polytechnic University of Bucharest.
 
